@@ -1,9 +1,63 @@
 # Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+![Screenshot](Screenshot.jpg)
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+# Introduction
+Anime Vault is a server-side application build using Server Actions, infinite scrolling and Framer Motion animations application with Next 14.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+# Implementation
+- Server-side application
+- Server Actions
+- Infinite scrolling
+- Framer Motion animations
+
+ Learn from:
+  ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
+
+# Installation
+
+Follow these steps to install and run the project:
+
+1. **Clone the repository**
+
+   Open your terminal and run the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/julien-muke/anime_vault.git
+   ```
+
+2. **Navigate to the project directory**
+
+   ```bash
+   cd anime_vault
+   ```
+
+3. **Install Node.js**
+
+   The project requires Node.js to run. If you don't have it installed, you can download it from [here](https://nodejs.org/en/download/).
+
+4. **Install the required packages**
+
+   The project requires several packages to be installed. Run the following command to install them:
+
+   ```bash
+   npm i
+   ```
+
+    ```bash
+   npm install react-intersection-observer
+   ```
+
+     ```bash
+   npm install framer-motion
+   ```
+
+5. **Start the server**
+
+   Run the following command to start the server:
+
+   ```bash
+   npm run start
+   ```
+
+
 
