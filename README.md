@@ -1,10 +1,10 @@
 # Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
 ![Screenshot](Screenshot.jpg)
 
-# Introduction
+## Introduction
 Anime Vault is a server-side application build using Server Actions, infinite scrolling and Framer Motion animations application with Next 14.
 
-# Implementation
+## Implementation
 - Server-side application
 - Server Actions
 - Infinite scrolling
@@ -13,7 +13,7 @@ Anime Vault is a server-side application build using Server Actions, infinite sc
  Learn from:
   ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
 
-# Installation
+## Installation
 
 Follow these steps to install and run the project:
 
